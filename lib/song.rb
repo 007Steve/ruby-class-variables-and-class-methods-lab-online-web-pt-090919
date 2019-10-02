@@ -20,6 +20,6 @@ class Song
         @@count
     end
     def self.artists
-      @@artists.uq
+      @@artists.uniq
     end
   end
