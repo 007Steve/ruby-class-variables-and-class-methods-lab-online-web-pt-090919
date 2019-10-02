@@ -5,6 +5,6 @@ class Song
   
     @name = name
   @artist = artist
-  @genre =g enre
+  @genre = genre
 end
 end
